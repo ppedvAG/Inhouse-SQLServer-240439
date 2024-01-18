@@ -67,17 +67,47 @@
           <AssociatedConnUserName />
           <FullPath>08_ColumnstoreIX.sql</FullPath>
         </FileNode>
-        <FileNode Name="25 Überflüssige Indizes.sql">
-          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BIGBEN:True</AssociatedConnectionMoniker>
-          <AssociatedConnSrvName>BIGBEN</AssociatedConnSrvName>
+        <FileNode Name="09_Kompression.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
           <AssociatedConnUserName />
-          <FullPath>25 Überflüssige Indizes.sql</FullPath>
+          <FullPath>09_Kompression.sql</FullPath>
         </FileNode>
-        <FileNode Name="Z_dieSachem,itdemDatetime.sql">
+        <FileNode Name="10_Dateigruppe.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BIGBEN:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>BIGBEN</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>Z_dieSachem,itdemDatetime.sql</FullPath>
+          <FullPath>10_Dateigruppe.sql</FullPath>
+        </FileNode>
+        <FileNode Name="11_part Sicht.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>11_part Sicht.sql</FullPath>
+        </FileNode>
+        <FileNode Name="12_Partitionierung.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>12_Partitionierung.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery1.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BIGBEN:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BIGBEN</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLQuery1.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Z Überflüssige Indizes.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BIGBEN:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BIGBEN</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Z Überflüssige Indizes.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Z_dieSachemitdemDatetime.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BIGBEN:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BIGBEN</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Z_dieSachemitdemDatetime.sql</FullPath>
         </FileNode>
         <FileNode Name="Z_instnwnd.sql">
           <AssociatedConnectionMoniker />
@@ -90,6 +120,12 @@
           <AssociatedConnSrvName>BIGBEN</AssociatedConnSrvName>
           <AssociatedConnUserName />
           <FullPath>Z_Spieltabelle.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Z_Wartung.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Z_Wartung.sql</FullPath>
         </FileNode>
       </Items>
     </LogicalFolder>
