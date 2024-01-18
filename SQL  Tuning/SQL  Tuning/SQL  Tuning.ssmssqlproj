@@ -80,16 +80,64 @@
           <FullPath>10_Dateigruppe.sql</FullPath>
         </FileNode>
         <FileNode Name="11_part Sicht.sql">
-          <AssociatedConnectionMoniker />
-          <AssociatedConnSrvName />
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BIGBEN:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BIGBEN</AssociatedConnSrvName>
           <AssociatedConnUserName />
           <FullPath>11_part Sicht.sql</FullPath>
         </FileNode>
         <FileNode Name="12_Partitionierung.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BIGBEN:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BIGBEN</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>12_Partitionierung.sql</FullPath>
+        </FileNode>
+        <FileNode Name="13_Good procedure bad procedure.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BIGBEN:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BIGBEN</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>13_Good procedure bad procedure.sql</FullPath>
+        </FileNode>
+        <FileNode Name="20_MAXDOP.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BIGBEN:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BIGBEN</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>20_MAXDOP.sql</FullPath>
+        </FileNode>
+        <FileNode Name="30_Erstellen von Stats.sql">
           <AssociatedConnectionMoniker />
           <AssociatedConnSrvName />
           <AssociatedConnUserName />
-          <FullPath>12_Partitionierung.sql</FullPath>
+          <FullPath>30_Erstellen von Stats.sql</FullPath>
+        </FileNode>
+        <FileNode Name="30_Statistiken und Variablen.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>30_Statistiken und Variablen.sql</FullPath>
+        </FileNode>
+        <FileNode Name="30_Tabellenvariablen vs tempTabellen.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>30_Tabellenvariablen vs tempTabellen.sql</FullPath>
+        </FileNode>
+        <FileNode Name="40_temporäre Tabellen.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BIGBEN:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BIGBEN</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>40_temporäre Tabellen.sql</FullPath>
+        </FileNode>
+        <FileNode Name="50_Logische Fluss.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BIGBEN:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BIGBEN</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>50_Logische Fluss.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Pläne im RAM.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Pläne im RAM.sql</FullPath>
         </FileNode>
         <FileNode Name="SQLQuery1.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BIGBEN:True</AssociatedConnectionMoniker>

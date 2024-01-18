@@ -1,4 +1,4 @@
-set statistics io, time on
+set statistics io, time on --off
 
 --gilt nur pro aktiver Sitzung
 --ausschalten ! sonst Performanceverlust wg Messen
